@@ -14,7 +14,12 @@
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%239CA3AF" width="34" alt="Node.js" />
   <img width="8" />
-  <img src="https://api.iconify.design/simple-icons/express.svg?color=%239CA3AF" width="34" alt="Express" />
+  <img
+  src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/bxl/express-js.svg"
+  width="34"
+  alt="Express"
+  style="filter: invert(68%) sepia(8%) saturate(500%) hue-rotate(180deg) brightness(90%) contrast(88%);"
+  />
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%239CA3AF" width="34" alt="MySQL" />
   <img width="8" />
