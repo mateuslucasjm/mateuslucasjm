@@ -14,11 +14,7 @@
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%239CA3AF" width="34" alt="Node.js" />
   <img width="8" />
-<img
-  src="https://api.iconify.design/bxl/express-js.svg?color=%239CA3AF"
-  width="34"
-  alt="Express"
-/>
+  <img src="https://api.iconify.design/bxl/express-js.svg?color=%239CA3AF" width="34" alt="Express" />
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%239CA3AF" width="34" alt="MySQL" />
   <img width="8" />
@@ -31,7 +27,6 @@
   <img src="https://api.iconify.design/simple-icons/jest.svg?color=%239CA3AF" width="34" alt="Jest" />
   <img width="8" />
 </p>
-
 
 <h2>Sobre mim</h2>
 
@@ -55,6 +50,7 @@
       Stack: JavaScript · React · Node.js · MySQL · Docker · AWS
     </span>
   </p>
+
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
       <a href="https://github.com/mateuslucasjm/natura-app"><b>App Natura</b></a> →
@@ -72,15 +68,23 @@
 <h2>Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank" rel="noopener noreferrer">
     <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%239CA3AF" width="28" alt="LinkedIn" />
   </a>
   <img width="14" />
-  <a href="mailto:mateulucas333@gmail.com" target="_blank">
+  <a
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=mateuslucas333@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%239CA3AF" width="28" alt="Gmail" />
   </a>
   <img width="14" />
-  <a href="https://api.whatsapp.com/send?phone=5531982845181" target="_blank">
+  <a
+    href="https://api.whatsapp.com/send?phone=5531982845181"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%239CA3AF" width="28" alt="WhatsApp" />
   </a>
 </p>
