@@ -80,13 +80,6 @@
     <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%239CA3AF" width="28" alt="Gmail" />
   </a>
   <img width="14" />
-  <a
-    href="https://api.whatsapp.com/send?phone=5531982845181"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%239CA3AF" width="28" alt="WhatsApp" />
-  </a>
 </p>
 
 <div align="center">
