@@ -4,11 +4,6 @@
 </div>
 
 <p align="center">
-  21 anos · Sistemas de Informação · +2 anos com desenvolvimento web<br/>
-  Atuo do front-end à API com TypeScript, React e Node.js
-</p>
-
-<p align="center">
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="34" alt="TypeScript" />
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%239CA3AF" width="34" alt="JavaScript" />
