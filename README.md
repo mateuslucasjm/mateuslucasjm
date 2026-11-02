@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=9CA3AF" />
   <h1>Mateus Lucas</h1>
 </div>
@@ -58,7 +58,7 @@
 
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/mateuslucasjm/natura-app"><b>Natura App</b></a> →
+      <a href="https://github.com/mateuslucasjm/natura-app"><b>Natura Management System</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Controle de estoque, vendas e dashboard interativo
@@ -71,7 +71,7 @@
 
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/mateuslucasjm/kurio-frontend-challenge"><b>Nft Marketplace</b></a> →
+      <a href="https://github.com/mateuslucasjm/kurio-frontend-challenge"><b>NFT Marketplace</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Marketplace de NFTs com catálogo, carrinho e checkout
