@@ -1,7 +1,12 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=9CA3AF" />
   <h1>Mateus Lucas</h1>
 </div>
+
+<p align="center">
+  21 anos · Sistemas de Informação · +2 anos com desenvolvimento web<br/>
+  Atuo do front-end à API com TypeScript, React e Node.js
+</p>
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="34" alt="TypeScript" />
@@ -53,7 +58,7 @@
 
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/mateuslucasjm/natura-app"><b>App Natura</b></a> →
+      <a href="https://github.com/mateuslucasjm/natura-app"><b>Natura App</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Controle de estoque, vendas e dashboard interativo
@@ -61,6 +66,19 @@
     <span style="display:inline-block; width:120px;"></span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI
+    </span>
+  </p>
+
+  <p>
+    <span style="display:inline-block; width:120px; text-align:right;">
+      <a href="https://github.com/mateuslucasjm/kurio-front"><b>Nft Marketplace</b></a> →
+    </span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      Marketplace de NFTs com catálogo, carrinho e checkout
+    </span><br/>
+    <span style="display:inline-block; width:120px;"></span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      Stack: React · TypeScript · Vite · TanStack · Tailwind CSS · MSW
     </span>
   </p>
 </div>
