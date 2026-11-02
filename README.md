@@ -71,7 +71,7 @@
 
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/mateuslucasjm/kurio-front"><b>Nft Marketplace</b></a> →
+      <a href="https://github.com/mateuslucasjm/kurio-frontend-challenge"><b>Nft Marketplace</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Marketplace de NFTs com catálogo, carrinho e checkout
