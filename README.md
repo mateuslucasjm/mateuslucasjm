@@ -22,10 +22,6 @@
   <img width="8" />
   <img src="https://api.iconify.design/simple-icons/docker.svg?color=%239CA3AF" width="34" alt="Docker" />
   <img width="8" />
-  <img src="https://api.iconify.design/simple-icons/testinglibrary.svg?color=%239CA3AF" width="34" alt="Testing Library" />
-  <img width="8" />
-  <img src="https://api.iconify.design/simple-icons/jest.svg?color=%239CA3AF" width="34" alt="Jest" />
-  <img width="8" />
 </p>
 
 <h2>Sobre mim</h2>
