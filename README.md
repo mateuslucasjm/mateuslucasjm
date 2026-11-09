@@ -82,7 +82,7 @@
   </a>
   <img width="14" />
   <a
-    href="https://mail.google.com/mail/?view=cm&fs=1&to=mateuslucas333@gmail.com"
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=mateuslucas2k4@gmail.com"
     target="_blank"
     rel="noopener noreferrer"
   >
